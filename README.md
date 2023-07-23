@@ -1,4 +1,9 @@
 # Iot-Energy-meter
+
+
+
+
+
 Hi everyone here is my Engineering first year project which is the Iot(Internet of things) based a SMART ENERGY METER.
 The detailed discription regarding it as follows:-
 An IoT (Internet of Things) smart energy meter is an advanced device that allows for more efficient and intelligent monitoring and management of energy consumption in residential, commercial, or industrial settings. Unlike traditional energy meters, which are often manual and provide limited information, smart energy meters leverage modern technologies and internet connectivity to provide real-time data and insights.
