@@ -1,8 +1,4 @@
-# Iot-Energy-meter#
-
-
-
-
+#Iot_Energy_meter
 
 Hi everyone here is my Engineering first year project which is the Iot(Internet of things) based a SMART ENERGY METER.
 The detailed discription regarding it as follows:-
@@ -16,6 +12,7 @@ Overall, IoT smart energy meters play a vital role in promoting energy efficienc
 Hence, these is a outlook of the project I have include the codes and requirment of hardware and software aslo.
 -----------------------------------------------------------------------------------------------------------------------------------------
 *REQUIREMENTS*
+------------------------------------------------------------------------------------------------------------------------------------------
 HARDWARE:-
 1.ESP32 wifi board.
 2.AC Voltage Sensor Module ZMPT101B
